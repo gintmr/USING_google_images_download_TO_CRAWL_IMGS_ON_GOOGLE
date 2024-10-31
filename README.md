@@ -13,3 +13,10 @@ This repository is created based on google_images_download, using the new google
 ### Install
 
 Environmental dependencies see:https://github.com/hardikvasa/google-images-download
+
+### Usage
+
+```
+python google_crawler.py
+```
+
